@@ -1,3 +1,2 @@
 # git
-about git reposity
-r
+about git repository
