@@ -1,2 +1,2 @@
 # git
-about git repositry
+about git repository
